@@ -1,0 +1,2 @@
+@entity
+@table(name = "")
