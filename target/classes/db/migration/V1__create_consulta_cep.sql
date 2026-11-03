@@ -1,2 +1,0 @@
-@entity
-@table(name = "")
