@@ -1,1 +1,4 @@
+com/estudojava/infrastructure/jpaUtil.class
+com/estudojava/infrastructure/EntityManager.class
 com/estudojava/Main.class
+com/estudojava/model/ConsultaCep.class
